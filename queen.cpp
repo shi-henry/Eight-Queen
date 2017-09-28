@@ -3,7 +3,7 @@
 #include <cmath>
 #include <time.h>
 using namespace std;
-
+aa
 bool isConfilct(const vector<int> &state, int nextX)
 {
     int nextY = state.size();
